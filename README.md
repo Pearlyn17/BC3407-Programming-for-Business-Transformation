@@ -1,8 +1,8 @@
 My own coded solutions, for NTU module
 Programming for Business Transformation 
 
-Based on python coding, topics include 
-1. BeautifulSoup - Web Scraping
-2. Object-Oriented Programming (OOP)
-3. CSS 
+Based on python coding, topics are
+1. Object-Oriented Programming (OOP)
+2. BeautifulSoup - Web Scraping
+3. CSS Web Design
 4. SQL
