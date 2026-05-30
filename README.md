@@ -1,1 +1,3 @@
-My own coded solutions, for BC3415 python coding, HTML parsing and web scraping, object-oriented programming (OOP), CSS and SQL.
+My own coded solutions, for NTU module Programming for Business Transformation
+
+Based on python coding, topics include HTML parsing/web scraping, object-oriented programming (OOP), CSS and SQL.
